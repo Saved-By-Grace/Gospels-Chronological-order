@@ -88,3 +88,12 @@ a {
 a:hover {
     color: #e0c31c; /* Replace with your desired hover color code */
 }
+
+.verse-container {
+    width: 80%;             /* Set the width to 80% of the page */
+    margin: 0 auto;         /* Center the container horizontally */
+    padding-left: 20px;     /* Padding on the left side */
+    padding-right: 20px;    /* Padding on the right side */
+    max-width: 1000px;      /* Optional: Limit the maximum width for better readability on large screens */
+    line-height: 1.6;       /* Optional: Increase line spacing for readability */
+}
