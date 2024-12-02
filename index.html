@@ -8,21 +8,8 @@
 </head>
 <body>
 
-      <!-- JavaScript to load the navigation bar -->
-      <script>
-        // JavaScript to load navbar.html content
-        fetch('components/navbar.html')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.text();
-            })
-            .then(data => {
-                document.getElementById('navbar-placeholder').innerHTML = data;
-            })
-            .catch(error => console.error('Error loading navbar:', error));
-    </script>
+    <!-- Placeholder for the nav bar -->
+    <div id="navbar-placeholder"></div>
 
   <header>
     <h1>Gospels in Chronological Order</h1>
@@ -87,5 +74,21 @@
             </tr>
         </table>
     </div>
+
+          <!-- JavaScript to load the navigation bar -->
+          <script>
+            // JavaScript to load navbar.html content
+            fetch('components/navbar.html')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then(data => {
+                    document.getElementById('navbar-placeholder').innerHTML = data;
+                })
+                .catch(error => console.error('Error loading navbar:', error));
+        </script>
 </body>
 </html>
