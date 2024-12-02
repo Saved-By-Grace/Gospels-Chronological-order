@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
-    padding: 10px;
+    /* padding: 10px; */
     background-color: #9c8360;
     color: #333;
     box-sizing: border-box;
@@ -38,14 +38,17 @@ h1 {
     padding: 10px;
 }
 
-/* Table Styling */
 .table-container {
-    /* padding: 10px; */
+    width: 80%;         /* Take up 80% of the parent container (typically the body) */
+    margin: 0 auto;     /* Center the container horizontally */
+    overflow-x: auto;   /* Allow horizontal scrolling if content overflows */
+    text-align: center; /* Optional: Center-align the text inside the container */
 }
 
 table {
-    width: 100%;
-    border-collapse: collapse;
+    width: 100%;             /* Ensure the table takes up the full width of the container */
+    border-collapse: collapse; /* Prevent spacing issues */
+    margin: 0 auto;           /* Center the table inside its container */
 }
 
 table, th, td {
@@ -55,6 +58,7 @@ table, th, td {
 th, td {
     padding: 8px;
     text-align: center;
+    
 }
 
 th {
@@ -72,4 +76,14 @@ th {
     th, td {
         padding: 6px;
     }
+}
+
+
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #e0c31c; /* Replace with your desired hover color code */
 }
