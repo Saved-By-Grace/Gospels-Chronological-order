@@ -43,6 +43,7 @@ h1 {
     margin: 0 auto;     /* Center the container horizontally */
     overflow-x: auto;   /* Allow horizontal scrolling if content overflows */
     text-align: center; /* Optional: Center-align the text inside the container */
+    padding-bottom: 5%;
 }
 
 table {
