@@ -39,7 +39,7 @@ h1 {
 }
 
 .table-container {
-    width: 80%;         /* Take up 80% of the parent container (typically the body) */
+    width: 85%;         /* Take up 80% of the parent container (typically the body) */
     margin: 0 auto;     /* Center the container horizontally */
     overflow-x: auto;   /* Allow horizontal scrolling if content overflows */
     text-align: center; /* Optional: Center-align the text inside the container */
