@@ -1,0 +1,74 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #9c8360;
+    color: #333;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4c4b4c;
+    color: white;
+    padding: 1rem 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    margin-top: 2rem;
+    background-color: #222;
+    color: white;
+    padding: 1rem 0;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+/* Heading Styling */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Table Styling */
+.table-container {
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #8a7645;
+}
+
+/* Responsive Styling for Small Screens */
+@media (max-width: 600px) {
+    body {
+        padding: 5px;
+    }
+    table {
+        font-size: 14px;
+    }
+    th, td {
+        padding: 6px;
+    }
+}
