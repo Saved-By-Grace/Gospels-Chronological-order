@@ -1,0 +1,60 @@
+/* Nav Bar Styling */
+.navbar {
+    background-color: #8a7645;  /* Dark background color */
+    padding: 10px 0;         /* Add some vertical padding */
+    color: white;
+    position: sticky;        /* Keeps the nav bar fixed at the top */
+    top: 0;
+    width: 100%;             /* Full width of the page */
+    z-index: 1000;           /* Make sure the nav bar is above other elements */
+}
+
+.nav-container {
+    display: flex;           /* Use Flexbox to manage layout */
+    justify-content: flex-start; /* Align items to the left */
+    align-items: center;
+    width: 80%;              /* Width of the nav container */
+    margin: 0 auto;          /* Center the container horizontally in the page */
+}
+
+.brand-logo {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 20px;      /* Add space between the logo and the nav links */
+}
+
+.nav-links {
+    list-style: none;        /* Remove default bullet points */
+    display: flex;
+    gap: 20px;               /* Space between links */
+    margin: 0;               /* Remove default margin */
+    padding: 0;              /* Remove default padding */
+}
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;   /* Remove underline from links */
+    font-size: 18px;
+    transition: color 0.3s;  /* Add a smooth transition for hover effect */
+}
+
+.nav-links li a:hover {
+    color: #ff4500;          /* Change color when hovering over links */
+}
+
+/* Mobile View Styling */
+@media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+        align-items: flex-start; /* Keep items left-aligned in mobile view */
+        width: 90%;              /* Make the container a bit narrower on small screens */
+    }
+
+    .nav-links {
+        flex-direction: column; /* Stack the nav links vertically on small screens */
+        gap: 10px;              /* Adjust gap for mobile view */
+        width: 100%;            /* Full width for links on mobile */
+    }
+}

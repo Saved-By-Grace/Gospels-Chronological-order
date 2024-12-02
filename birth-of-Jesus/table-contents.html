@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
+    <!-- Placeholder for the nav bar -->
+    <div id="navbar-placeholder"></div>
+
     <h1>Jesus's Birth and Childhood</h1>
     <div class = "table-container">
         <table>
@@ -17,21 +20,22 @@
                 <th>Luke</th>
                 <th>John</th>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>Introductory Material</td>
                 <td></td>
                 <td>1:1</td>
                 <td>1:1-4</td>
                 <td>1:1-18</td>
-            </tr>
-            <tr>
+            </tr> -->
+            <!-- <tr>
                 <td>The Prelude to John</td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td>1:1-18</td>
-            </tr>
+            </tr> -->
             <tr>
+                <!-- 1 -->
                 <td>The genealogies of Jesus</td>
                 <td>1:1-17</td>
                 <td></td>
@@ -39,13 +43,15 @@
                 <td></td>
             </tr>
             <tr>
-                <td>An angel appears to Zechariah</td>
+                <!-- 2 -->
+                <td><a href="2-boj.html"> An angel appears to Zechariah</a></td>
                 <td></td>
                 <td></td>
                 <td>1:5-25</td>
                 <td></td>
             </tr>
             <tr>
+                <!-- 3 -->
                 <td>An angel appears to Mary</td>
                 <td></td>
                 <td></td>
@@ -53,6 +59,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 4 -->
                 <td>Mary visits Elizabeth</td>
                 <td></td>
                 <td></td>
@@ -60,6 +67,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 5 -->
                 <td>Birth of John the Baptist</td>
                 <td></td>
                 <td></td>
@@ -67,6 +75,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 6 -->
                 <td>Joseph finds out Mary is pregnant</td>
                 <td>1:18-25a</td>
                 <td></td>
@@ -74,6 +83,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 7 -->
                 <td>Birth of Jesus</td>
                 <td>1:25b</td>
                 <td></td>
@@ -81,6 +91,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 8 -->
                 <td>Circumcision of Jesus</td>
                 <td></td>
                 <td></td>
@@ -88,6 +99,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 9 -->
                 <td>Presented in the temple</td>
                 <td></td>
                 <td></td>
@@ -95,6 +107,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 10 -->
                 <td>Visit of the wise men</td>
                 <td>2:1-12</td>
                 <td></td>
@@ -109,6 +122,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 11 -->
                 <td>Massacre of the Infant Boys</td>
                 <td>2:16-18</td>
                 <td></td>
@@ -116,6 +130,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 12 -->
                 <td>Return to Nazareth</td>
                 <td>2:19-23</td>
                 <td></td>
@@ -123,6 +138,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 13 -->
                 <td>Early childhood</td>
                 <td></td>
                 <td></td>
@@ -130,6 +146,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 14 -->
                 <td>Visit to Jerusalem</td>
                 <td></td>
                 <td></td>
@@ -137,6 +154,7 @@
                 <td></td>
             </tr>
             <tr>
+                <!-- 15 -->
                 <td>Later childhood</td>
                 <td></td>
                 <td></td>
@@ -146,5 +164,22 @@
         </table>
         
     </div>
+
+
+    <!-- JavaScript to load the navigation bar -->
+    <script>
+    // JavaScript to load navbar.html content
+    fetch('../components/main-navbar.html')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.text();
+        })
+        .then(data => {
+            document.getElementById('navbar-placeholder').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading navbar:', error));
+    </script>
 </body>
 </html>
