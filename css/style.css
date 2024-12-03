@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
     border: 0; 
     height: 3px; 
-    font-size: 30px;
+
 }
 
 header {
@@ -100,4 +100,45 @@ a:hover {
     padding-right: 20px;    /* Padding on the right side */
     max-width: 1000px;      /* Optional: Limit the maximum width for better readability on large screens */
     line-height: 1.6;       /* Optional: Increase line spacing for readability */
+    font-size: 18px;
+}
+
+/* .verse-notes {
+    list-style-position: inside;
+    text-align: left;          
+    padding: 0;                
+    font-size: 120%;
+} */
+
+/* .verse-notes li {
+    display:list-item;      
+    text-align: left;         
+    margin: 5px 0;             
+    padding-left: 25%;
+    font-size: 120%;
+    list-style: none;
+    padding-right: 8%;
+} */
+
+
+.verse-notes {
+    list-style-position: inside; /* Ensures that the bullets align with the text */
+    text-align: left;            /* Align the list container text to the left */
+    padding: 0;                  /* Remove default padding from the list */
+    margin: 0;                   /* Remove default margin */
+    font-weight: bold;
+    font-size: 110%;
+    padding-left: 4%;
+}
+
+.verse-notes li {
+    display: list-item;          /* Display list items normally */
+    text-align: left;            /* Align text to the left within each list item */
+    margin: 5px 0;               /* Add some vertical margin for spacing */
+    padding-left: 20%;           /* Add padding to the left for specific alignment */
+    padding-right: 2%;           /* Add padding to the right */
+    font-size: 100%;             /* Set specific font size for list items */
+    list-style: none;            /* Remove bullet points if desired */
+    font-weight:lighter;
+    padding-top: 10%;
 }
