@@ -6,12 +6,25 @@
   <title>An Angle Appears to Gabriel</title>
   <link rel="stylesheet" href="../css/style.css">
 </head>
+<div id="navbar-placeholder"></div>
+<script>
+    // JavaScript to load navbar.html content
+    fetch('../components/main-navbar.html')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.text();
+        })
+        .then(data => {
+            document.getElementById('navbar-placeholder').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading navbar:', error));
+    </script>
 
 <h1>An Angel Appears to Gabriel</h1>
 <h3>Luke 1:1-25</h3>
 <body>
-    
-
     <ul class = "verse-notes">
         <li><sup>6</sup> Both of them were righteous in the sight of God, observing all the Lord’s commands and decrees blamelessly.</li>
         <!-- <li>hello</li> -->
@@ -26,12 +39,6 @@
 
         <li><sup>18</sup> Zechariah asked the angel, “How can I be sure of this? I am an old man and my wife is well along in years.” </li>
         He didn't beleive it just like Sarah
-        
-
-
-
-
-
     </ul>
 
 
