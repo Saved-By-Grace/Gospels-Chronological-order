@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding-left: 10%;
     padding-right: 10%;
-    background-color: #9c8360;
+    background-color: #9dddff;
     color: #333;
     box-sizing: border-box;
     border: 0; 
@@ -53,7 +53,8 @@ h1 {
 table {
     width: 100%;             /* Ensure the table takes up the full width of the container */
     border-collapse: collapse; /* Prevent spacing issues */
-    margin: 0 auto;           /* Center the table inside its container */
+    margin: 0 auto;    
+    background-color: #ffffff;       /* Center the table inside its container */
 }
 
 table, th, td {
@@ -67,7 +68,8 @@ th, td {
 }
 
 th {
-    background-color: #8a7645;
+    background-color: #00048c;
+    color: #ffffff
 }
 
 /* Responsive Styling for Small Screens */
