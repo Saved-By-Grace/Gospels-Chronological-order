@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>An Angle Appears to Gabriel</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<div id="navbar-placeholder"></div>
+<script>
+    // JavaScript to load navbar.html content
+    fetch('../components/main-navbar.html')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.text();
+        })
+        .then(data => {
+            document.getElementById('navbar-placeholder').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading navbar:', error));
+    </script>
+
+<h1>An Angel Appears to Mary</h1>
+<h3>Luke 1:26-38</h3>
+<body>
+    <ul class = "verse-notes">
+    </ul>
+
+
+
+
+    <hr style="border: 0; height: 3px; background-color: black;">
+
+
+
+    <div class="verse-container">
+        26 In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth,<br>
+        27 to a virgin betrothed[a] to a man whose name was Joseph, of the house of David. And the virgin's name was Mary.<br>
+        28 And he came to her and said, “Greetings, O favored one, the Lord is with you!”[b]<br>
+        29 But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be.<br>
+        30 And the angel said to her, “Do not be afraid, Mary, for you have found favor with God.<br>
+        31 And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus.<br>
+        32 He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David,<br>
+        33 and he will reign over the house of Jacob forever, and of his kingdom there will be no end.”<br>
+        
+        34 And Mary said to the angel, “How will this be, since I am a virgin?”[c]<br>
+        
+        35 And the angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born[d] will be called holy—the Son of God.<br>
+        36 And behold, your relative Elizabeth in her old age has also conceived a son, and this is the sixth month with her who was called barren.<br>
+        37 For nothing will be impossible with God.”<br>
+        38 And Mary said, “Behold, I am the servant[e] of the Lord; let it be to me according to your word.” And the angel departed from her.<br>
+        
+       
+    </div>
+</body>
+</html>
