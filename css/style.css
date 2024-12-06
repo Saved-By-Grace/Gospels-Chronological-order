@@ -100,7 +100,7 @@ a:hover {
     margin: 0 auto;         /* Center the container horizontally */
     padding-left: 10px;     /* Padding on the left side */
     padding-right: 10px;    /* Padding on the right side */
-    max-width: 1000px;      /* Optional: Limit the maximum width for better readability on large screens */
+    max-width: 100%;      /* Optional: Limit the maximum width for better readability on large screens */
     line-height: 1.6;       /* Optional: Increase line spacing for readability */
     font-size: 18px;
     background-color: #f9f9f9;
@@ -115,6 +115,9 @@ a:hover {
     font-weight: bold;
     font-size: 110%;
     padding-left: 4%;
+    text-align: right;
+    padding-right: 3%;
+    font-weight: lighter;
 }
 
 .verse-notes li {
@@ -122,10 +125,10 @@ a:hover {
     text-align: left;            /* Align text to the left within each list item */
     margin: 5px 0;               /* Add some vertical margin for spacing */
     padding-left: 2%;           
-    padding-right: 2%;         
+    padding-right: 10%;         
     font-size: 100%;             /* Set specific font size for list items */
     list-style: none;            /* Remove bullet points if desired */
-    font-weight:lighter;
+    font-weight: bold;
     padding-top: 2%;
 }
 
