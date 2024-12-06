@@ -96,13 +96,14 @@ a:hover {
 }
 
 .verse-container {
-    width: 80%;             /* Set the width to 80% of the page */
+    width: 100%;            /* Set the width to 80% of the page */
     margin: 0 auto;         /* Center the container horizontally */
-    padding-left: 20px;     /* Padding on the left side */
-    padding-right: 20px;    /* Padding on the right side */
+    padding-left: 10px;     /* Padding on the left side */
+    padding-right: 10px;    /* Padding on the right side */
     max-width: 1000px;      /* Optional: Limit the maximum width for better readability on large screens */
     line-height: 1.6;       /* Optional: Increase line spacing for readability */
     font-size: 18px;
+    background-color: #f9f9f9;
 }
 
 
@@ -120,10 +121,24 @@ a:hover {
     display: list-item;          /* Display list items normally */
     text-align: left;            /* Align text to the left within each list item */
     margin: 5px 0;               /* Add some vertical margin for spacing */
-    padding-left: 20%;           /* Add padding to the left for specific alignment */
-    padding-right: 2%;           /* Add padding to the right */
+    padding-left: 2%;           
+    padding-right: 2%;         
     font-size: 100%;             /* Set specific font size for list items */
     list-style: none;            /* Remove bullet points if desired */
     font-weight:lighter;
     padding-top: 2%;
+}
+
+.double-verse-container{
+    display: grid; /* Enables grid layout */
+    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
+    gap: 2px;
+}
+
+.side-verse{
+    flex: 1; /* Makes the boxes take up equal width */
+    padding: 4px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+   
 }
