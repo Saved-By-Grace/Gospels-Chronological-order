@@ -1,1 +1,42 @@
-<!-- 23-yom.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<div id="navbar-placeholder"></div>
+<script>
+    // JavaScript to load navbar.html content
+    fetch('../components/main-navbar.html')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.text();
+        })
+        .then(data => {
+            document.getElementById('navbar-placeholder').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading navbar:', error));
+    </script>
+
+<h1></h1>
+<h3></h3>
+<body>
+    <ul class = "verse-notes">
+    </ul>
+
+
+
+
+    <hr style="border: 0; height: 3px; background-color: black;">
+
+
+
+    <div class="verse-container">
+       
+    </div>
+</body>
+</html>
