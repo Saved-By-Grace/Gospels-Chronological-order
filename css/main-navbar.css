@@ -1,8 +1,8 @@
 /* Nav Bar Styling */
 .navbar {
-    background-color: #8a7645;  /* Dark background color */
+    background-color: #8a7645;
+    /* background-color: #777777; */
     padding: 10px 0;         /* Add some vertical padding */
-    color: white;
     position: sticky;        /* Keeps the nav bar fixed at the top */
     top: 0;
     width: 100%;             /* Full width of the page */
@@ -15,6 +15,7 @@
     align-items: center;
     width: 80%;              /* Width of the nav container */
     margin: 0 auto;          /* Center the container horizontally in the page */
+
 }
 
 .brand-logo {
@@ -57,4 +58,8 @@
         gap: 10px;              /* Adjust gap for mobile view */
         width: 100%;            /* Full width for links on mobile */
     }
+}
+
+.a{
+    color: white;
 }

@@ -8,8 +8,15 @@
 </head>
 <body>
     <!-- Placeholder for the nav bar -->
-    <div id="navbar-placeholder"></div>
-
+    <!-- <div id="navbar-placeholder"></div> -->
+    <link rel="stylesheet" href="../css/main-navbar.css">
+    <nav class="navbar">
+        <div class="nav-container">
+            <ul class="nav-links">
+                <a href="../index.html">Home</a>
+            </ul>
+        </div>
+    </nav>
     <h1>The First 1.5 Years of Jesus' Ministry</h1>
     <div class = "table-container">
         <table>
@@ -256,7 +263,7 @@
                 </tr>
                 <tr>
                     <!-- 14 -->
-                    <td><a href="30-yom.html">Jesus calls Matthew (Levi)/a></td>
+                    <td><a href="30-yom.html">Jesus calls Matthew (Levi)</a></td>
                     <td>9:9-13</td>
                     <td>2:13-17 </td>
                     <td>5:27-32</td>
@@ -281,7 +288,7 @@
 
 
     <!-- JavaScript to load the navigation bar -->
-    <script>
+    <!-- <script>
     // JavaScript to load navbar.html content
     fetch('../components/main-navbar.html')
         .then(response => {
@@ -294,6 +301,6 @@
             document.getElementById('navbar-placeholder').innerHTML = data;
         })
         .catch(error => console.error('Error loading navbar:', error));
-    </script>
+    </script> -->
 </body>
 </html>

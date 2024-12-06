@@ -5,22 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title></title>
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/main-navbar.css">
 </head>
-<div id="navbar-placeholder"></div>
-<script>
-    // JavaScript to load navbar.html content
-    fetch('../components/main-navbar.html')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.text();
-        })
-        .then(data => {
-            document.getElementById('navbar-placeholder').innerHTML = data;
-        })
-        .catch(error => console.error('Error loading navbar:', error));
-    </script>
+<nav class="navbar">
+    <div class="nav-container">
+        <ul class="nav-links">
+            <a href="../index.html">Home</a>
+            <a href="9-boj.html">Previous</a>
+            <a href="11-boj.html">Next</a>
+        </ul>
+    </div>
+</nav>
 
 <h1></h1>
 <h3></h3>
