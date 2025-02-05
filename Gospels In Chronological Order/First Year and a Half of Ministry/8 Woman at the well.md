@@ -2,11 +2,15 @@
 ![[Pasted image 20250204180351.png]]
 v4 "Had to go..."  implies divine guidance 
 Though samaria was a straight shot and shortest distance jews would intentionally take the longer route to avoid the half breeds
+
 That is how much hate was in there hearts
+
 Because of this animosity Samaritans had there own place of worship on Mount Gerizim the equivalent of Jerusalem
+
 Samaritans only had the Pentateuch which was another issue to jews
 
 v5 land of Sychar very Important historical site (Abraham first came to Canna from Babylon, Abraham build alter upon name of the Lord)
+
 v6 Jesus tired and wanted to rest it was noon 
 
 v7-9 
@@ -24,6 +28,7 @@ v10 choose a response back
 - "if only you knew the gift of God"
 - "who it was asking for a drink"
 - "he would've given living water" 
+
 is this time back with Old Testament where Jesus was a calling himself to be messiah
 
 v13 jesus" whatever drinks for the water, I give them will never thirst. "We all have things that we seek after spiritually. Jesus, claiming that he alone can quench ad and will never look for anything else again.
