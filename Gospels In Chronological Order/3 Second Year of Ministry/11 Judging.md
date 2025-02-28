@@ -1,5 +1,4 @@
-### Matthew 7:1-5
-### Luke 6:37:42
+### Matthew 7:1-5 and Luke 6:37:42 (Seperate/repeated teaching in Perea)
 
 
 M1 becareful with the measure you use to judge cause you are held by that same standard 

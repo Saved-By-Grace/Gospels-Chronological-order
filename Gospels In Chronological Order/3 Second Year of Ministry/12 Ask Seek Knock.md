@@ -1,4 +1,4 @@
-### Matthew 7:7-12 and Luke 11:5-13
+### Matthew 7:7-12 and Luke 11:5-13 (Seperate/repeated teaching in Perea)
 
 **Ask**- how a child will boldly keep asking for something even when they are told no, have that same boldness to ask God in prayer
 
@@ -11,4 +11,8 @@
 **M12** Golden rule, treat others how you want to be treated. 
 
 **L5-8** persistency is key, the man asked, seeked, knocked very late at night, yet his persistence and boldness is what enables him to get what he wants, God wants us to come to him the same way
+
+Jesus wants us to do these things as we come to him. It requires/teaches us to trust and rely on him and be that persistent widow in Luke 18
+
+
 

@@ -1,4 +1,7 @@
 
+This is the first part of the sermon on the mount
+
+
 # Giving to the needy
 ### Matthew 6:1-4
 
