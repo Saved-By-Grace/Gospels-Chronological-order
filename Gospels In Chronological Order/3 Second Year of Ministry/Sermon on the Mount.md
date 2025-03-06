@@ -1,7 +1,1 @@
-[[9 Your Actions In Secret M6]]
-[[10 Not to Worry]]
-[[11 Judging]]
-[[12 Ask Seek Knock]]
-[[13 Entering The Kingdom of Heaven]]
-[[14 A Tree And Its Fruit]]
-[[15 Wise and Foolish Builders]]
+

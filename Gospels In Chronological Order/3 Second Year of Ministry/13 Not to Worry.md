@@ -1,3 +1,4 @@
+#sermonOnTheMount
 ### Matthew 6:25-34  and Luke 12:22-31 (repeated/sperate teaching in Perea)
 
 The normal basic needs we cant live without

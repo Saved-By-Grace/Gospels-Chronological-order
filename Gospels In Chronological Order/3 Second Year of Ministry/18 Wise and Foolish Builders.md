@@ -1,4 +1,6 @@
-### Matthew 7:24-27 and Luke 6:46-49
+#sermonOnTheMount
+
+\### Matthew 7:24-27 and Luke 6:46-49
 
 M24-25 L46-48
 
@@ -19,7 +21,7 @@ When we have christ as our foundation nothing can break us down, or shake us, ev
 
 What does it mean to have christ as your foundation?
 When everything is going wrong what are you doing/who are you going to to fix it.
-Prayer, we see earlier Jesus had said in Matthew 7:7-12 and Luke 11:5-13 [[12 Ask Seek Knock]]
+Prayer, we see earlier Jesus had said in Matthew 7:7-12 and Luke 11:5-13 [[15 Ask Seek Knock]]
 
 It is fitting that this is the last portion of the sermon on the mount. After hearing all these teaching that Jesus gave he then challenged them to wise builder to follow his word. 
 

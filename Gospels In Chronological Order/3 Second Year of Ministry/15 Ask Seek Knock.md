@@ -1,3 +1,4 @@
+#sermonOnTheMount
 ### Matthew 7:7-12 and Luke 11:5-13 (Seperate/repeated teaching in Perea)
 
 **Ask**- how a child will boldly keep asking for something even when they are told no, have that same boldness to ask God in prayer
