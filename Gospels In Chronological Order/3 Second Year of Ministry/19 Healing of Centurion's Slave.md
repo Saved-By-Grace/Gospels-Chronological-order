@@ -1,5 +1,5 @@
 ### Matthew 8:5-13 and Luke 1:1-10
-
+#healing
 #Centurion-  
 - military officer commanding a platoon of troops called a “century.” 
 - Nearly one hundred to several hundred men. 
