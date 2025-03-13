@@ -1,5 +1,6 @@
 ## Matthew 11:2-19 and Luke 7:18-35
 
+
 ### Matthew 11:2-16 and Luke 7:18-28
 
 ##### M2 L19-20 
@@ -29,4 +30,33 @@ Jesus knew that his coming was far from what the Jews expected. They wanted a gr
 However Jesus did not do that and in fact pointed out the wrongs of the Jews and their system. For some they would feel like they were unheard for their pleas. 
 
 This shows that the plans we seem are right and the best course of action are not what is best and what God has planned. Jews wanted freedom but they were not aware what they were in chains of. We need to be aware of the same blindness we have. 
+
+##### M7-15 L24-28
+
+Jesus was proving John authority and claimed he was the greatest prophet and was prophesied to come (Malachi 3:1) 
+
+
+### Luke 7:29-30
+
+The tax collectors had been baptized by john and receptive to Jesus' word however the pharisees rejected what they had heard. 
+
+
+###  M11:16-19 L7:31-35
+
+##### M16-119 L31-35
+Jesus claimed this generation was impossible to please 
+
+M18 L33
+John lived a strict life style (potential nazarine creed) yet they called him a demon 
+
+M19 L34
+They claimed Jesus was a drunk and friend of sinners (friend meaning he was one among them)
+
+None of these were true, yet the generation was unable to be made happy, they found something to complain, find fault with always. 
+
+
+
+
+
+
 
