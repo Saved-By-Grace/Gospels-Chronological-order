@@ -1,4 +1,5 @@
 #sermonOnTheMount
+#preach
 ### Matthew 6:1-8
 
 When you pray also pray in secret rather than to get attention of man (just like with giving)

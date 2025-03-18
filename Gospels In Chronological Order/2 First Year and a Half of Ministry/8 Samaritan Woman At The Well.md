@@ -1,5 +1,10 @@
 ### John 4:1-42
 ![[Pasted image 20250204180351.png]]
+
+#woman
+#saved 
+#samaria
+#JesusQuestioned
 v4 "Had to go..."  implies divine guidance 
 Though samaria was a straight shot and shortest distance jews would intentionally take the longer route to avoid the half breeds
 
@@ -58,3 +63,36 @@ v23 "Worship in spirit and in truth"
 	- Jesus/God want true worship, comes from the heart
 
 v26 Jesus states he is the messiah she was told about 
+
+v28-29 "come, see the man who told me everything I did. Could this be the messiah?"
+She was a woman hiding in sin, yet when she was telling others about Jesus, she told others and brought up, or possibly re-brought up person, why? She became changed her life became a testimony, willing to show her past
+
+
+Jesus showing compassion, not judgment Harrison resonated with her, she was probably used to people pointing out her sins, she shared this character of Jesus with others.
+
+Jesus, knowing her send without her saying anything mirror. Also, believe, Isaiah 11:2,3 whole chapter deals with prophesied about the messiah verse two, three talks about the messiah. Having wisdom, knowledge, it was widely believed in that time the Messiah would know the hearts of men. (EW)
+
+*skipped 31-38 for continuity will come back after* 
+
+v39 her testimony brought people to Christ, the #application come to Christ don't shy away from him, come to him and confess
+
+v31-38 
+The food of Jesus was "doing the will of Him who sent me"
+- do you have a showing that there's more to life than eating and drinking  (Romans 14:17) and was more interested, in the work of the lord
+- just as food, sustains, energizes, gives joy. The will of the Lord should sustain us
+
+v35 
+"it's still four months till harvest" it was a potential proverb about doing things, and it's time, but Jesus was going against that mindset. "Look at the fields", saying that people are ready to hear the word of God.
+
+v36-37 
+It is a joint effort, everyone has their part to play. We play our roles, one rips one sows, and we rejoice in it together (1 Cor 3:6-8)
+
+v38 
+"I sent you to reap what you have it worked for"
+
+
+
+reflect 
+Why did John write this account and not the other gospels? John focuses on Jesus = God. The knowledge of knowing her sin yet loving her and showing the way to freedom and having the longing she desired for so long.
+
+

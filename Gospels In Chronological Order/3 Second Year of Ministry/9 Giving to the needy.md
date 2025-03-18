@@ -1,4 +1,5 @@
 #sermonOnTheMount
+#preach
 ### Matthew 6:1-4
 
 V1 do not show the the facade of righteousness with the intent to hav people worship you

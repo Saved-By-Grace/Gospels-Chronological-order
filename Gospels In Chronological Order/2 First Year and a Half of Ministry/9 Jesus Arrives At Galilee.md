@@ -1,7 +1,8 @@
 
 ### John 1-2
 
-#Galllean_Ministry
+#galllean_ministry
+#cana
 Jesus left Judea to go to Galilee
 
 v1-2 Not Jesus baptizing 

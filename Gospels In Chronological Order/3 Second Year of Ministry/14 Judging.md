@@ -1,4 +1,5 @@
 #sermonOnTheMount
+#preach
 ### Matthew 7:1-5 and Luke 6:37:42 (Seperate/repeated teaching in Perea)
 
 

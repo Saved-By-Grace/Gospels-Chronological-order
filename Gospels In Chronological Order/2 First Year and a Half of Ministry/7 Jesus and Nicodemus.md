@@ -1,7 +1,7 @@
 ### John 3:1-21
 Nicodemus came at night to see Jesus, he was a Pharisee, he came at night because of shame 
 Nicodemus said the science Jesus performed a truly from God, he believed, he had an open mind, and was an intellectual in the word of God
-
+#JesusQuestioned
 Jesus told him "no one can see the kingdom, unless he is born again" but nicodemus didn't understand
 
 "no one can enter the kingdom of God, unless they're born of ==water== and ==spirit Spirit=="

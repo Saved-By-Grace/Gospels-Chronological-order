@@ -1,4 +1,5 @@
 #sermonOnTheMount
+#preach
 ### Matthew 19- 24
 
 19/20 storing things on earth will last a life time, however the things stored in heaven will last an eternity. 
