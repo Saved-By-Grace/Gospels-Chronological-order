@@ -1,6 +1,7 @@
 ### Matthew 8:5-13 and Luke 1:1-10
 #healing
 #Centurion
+#capernaum 
 - military officer commanding a platoon of troops called a “century.” 
 - Nearly one hundred to several hundred men. 
 - A Roman **legion** was composed of nearly 5,000 men, divided intomultiple centuries. As a result, a legion could contain as many as sixty centurions. 
