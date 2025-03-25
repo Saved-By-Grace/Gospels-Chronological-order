@@ -1,5 +1,6 @@
 #sermonOnTheMount
 #preach
+
 ### Matthew 7:15-21 and Luke 6:43-45
 
 Jesus warns us about false prophets. They best way to know if they are real is to see the "fruits" they yield. Just as a good tree bears good fruit and every tree is known by the fruit it yield so is everyone else. We must look at their life are they speaking life into ppl, are they doers of the word, are they fruits of the Spirit?

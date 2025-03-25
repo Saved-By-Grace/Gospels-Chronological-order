@@ -1,6 +1,7 @@
-### Matthew 12:22-37 Mark 3:20-30 Luke 11:14-23
+### Matthew 12:22-30 Mark 3:20-30 Luke 11:14-22
 #pharisee
 #healing
+
 Mt22 - L20 
 Jesus Heals a blind deaf man
 
@@ -20,8 +21,12 @@ Mt29 - Mk27 - L21
 
 **Luke** "what a strong man, fully armed guards, his own house, his possessions are safe. But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted and divides up his plunder."
 
-No ultra gospels do not say the same parable of the meaning is still the same. It is a Jesus is that stronger man (Luke) and it's able to defeat that strong man (the devil). And in Matthew Mark Jesus is saying he will tie up the devil to defeat him. And Luke Jesus is saying that he is much stronger than the devil, and will completely destroy him.
+ Gospels do not say the same parable but the meaning is still the same. It is a Jesus is that stronger man (Luke) and it's able to defeat that strong man (the devil). And in Matthew Mark Jesus is saying he will tie up the devil to defeat him. And Luke Jesus is saying that he is much stronger than the devil, and will completely destroy him.
 
 The spoils are the souls that Jesus saves
+
+
+Mt 30 L 23
+There is no compromise with God and should not be indifferent or neither. You need to have your heart fully with him to be with hum
 
 
