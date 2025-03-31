@@ -19,10 +19,12 @@ He also mentions v42 of Queen of the South (Gentiles) came to hear the wisdom of
 Jesus claims that he is greater than these two
 
 
-
-
 #### Mt 43-45 L 24-29
 
-Jesus points out that clearing yourself of sin is good but if Chirst is not filling that up Satan will come and fill it with sin and bring more 'friends' sin leaving you worse off
+Jesus points out that clearing yourself of sin is good but if Christ is not filling that up Satan will come and fill it with sin and bring more 'friends' sin leaving you worse off
 
+
+#### Mt 46-50 Mk 3:31-35 L 8:19-21
+
+Jesus says that his brothers are those who do the will of my father in heaven. Those who are for the same cause and are prideful to be called songs of God.
 
