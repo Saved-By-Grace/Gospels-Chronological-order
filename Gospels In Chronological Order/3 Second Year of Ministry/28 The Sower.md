@@ -41,3 +41,7 @@ What kind of soil are you, the soil can be transformed.
 We can go from rocky soil to good soil by trusting in God that he may remove the rocks or have the strength to over come rocks (think how trees are able to grow and break through stone and metal as the grow) that we have in our lives to be firmly planted with in Him. 
 
 Thorns can go from good when we can remove the things in our lives that hold us back (Whjich are? school, career, people). We need to have our eyes focused more on Him. Or even be like Paul have a thorn in the flesh but makes us rely on God even closer. 
+
+
+
+n
