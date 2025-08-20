@@ -1,5 +1,5 @@
 #TheKingdomOfHeaven
-
+#parable
 ### Mt 13:1-23; Mk 4:1-20; L 8:4-14
 
 Jesus says a farmer was sowing his seed (singular). 
@@ -44,4 +44,3 @@ Thorns can go from good when we can remove the things in our lives that hold us 
 
 
 
-n

@@ -11,14 +11,22 @@
             "id": "360cc91eba1e5574",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a8150eb8a3cf4c4b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "Gospels In Chronological Order/3 Second Year of Ministry/28 The Sower.md",
-                "mode": "source",
-                "source": false
+                "file": "ChronologyOfTheFourGospels.pdf"
               },
-              "icon": "lucide-file",
-              "title": "28 The Sower"
+              "icon": "lucide-file-text",
+              "title": "ChronologyOfTheFourGospels"
             }
           }
         ]
@@ -53,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#death-ressurection",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,22 +179,27 @@
   },
   "active": "360cc91eba1e5574",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Gospels In Chronological Order/3 Second Year of Ministry/31 Parable of the yeast.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/30 Mustard Seed.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/29 The weeds.md",
+    "ChronologyOfTheFourGospels.pdf",
+    "Gospels In Chronological Order/3 Second Year of Ministry/28 The Sower.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/27 Six Woes.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/17 A Tree And Its Fruit.md",
+    "Gospels In Chronological Order/Pasted image 20250204180351.png",
     "Gospels In Chronological Order/3 Second Year of Ministry/18 Wise and Foolish Builders.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/19 Healing of Centurion's Slave.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/17 A Tree And Its Fruit.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/16 Entering The Kingdom of Heaven.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/15 Ask Seek Knock.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/14 Judging.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/13 Not to Worry.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/12  Money.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/28 The Sower.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/27 Six Woes.md",
     "Gospels In Chronological Order/2 First Year and a Half of Ministry/7 Jesus and Nicodemus.md",
     "Gospels In Chronological Order/2 First Year and a Half of Ministry/2 Temptation Of Jesus.md",
     "Gospels In Chronological Order/1 Birth Of Jesus and Early Days/3 Mary's Experience.md",
     "Gospels In Chronological Order/1 Birth Of Jesus and Early Days/1 Genealogy Of Jesus.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/20 Jesus raises a widow's son.md",
-    "Gospels In Chronological Order/Pasted image 20250204180351.png",
     "Gospels In Chronological Order/3 Second Year of Ministry/10 Praying in Secret.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/9 Giving to the needy.md",
     "Gospels In Chronological Order/2 First Year and a Half of Ministry/5 Jesus' First Miracle.md",
@@ -193,10 +207,6 @@
     "Gospels In Chronological Order/3 Second Year of Ministry/24 Jesus and Beelzebub.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/25 Blasphemy Against The Holy Spirit.md",
     "[[24.md",
-    "Gospels In Chronological Order/2 First Year and a Half of Ministry/9 Jesus Arrives At Galilee.md",
-    "Gospels In Chronological Order/2 First Year and a Half of Ministry/6 Jesus clears the temple.md",
-    "Gospels In Chronological Order/2 First Year and a Half of Ministry/4 Jesus Calls First Set Of Disciples.md",
-    "Gospels In Chronological Order/2 First Year and a Half of Ministry/3 John The Baptist And Jesus.md",
     "Untitled.canvas",
     "Gospels In Chronological Order/2 First Year and a Half of Ministry/Untitled",
     "Gospels In Chronological Order",
