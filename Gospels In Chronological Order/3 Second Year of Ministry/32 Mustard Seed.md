@@ -1,4 +1,4 @@
-### Mt 13:31-32
+### Mt 13:31-32 Mk 4:30-32
 #TheKingdomOfHeaven 
 #parable
 

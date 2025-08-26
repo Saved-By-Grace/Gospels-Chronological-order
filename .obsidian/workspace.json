@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "360cc91eba1e5574",
+            "id": "a8150eb8a3cf4c4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Gospels In Chronological Order/3 Second Year of Ministry/36 The Cost Of Following Jesus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "36 The Cost Of Following Jesus"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9d6350c39f1edf19",
+        "type": "tabs",
+        "children": [
           {
-            "id": "a8150eb8a3cf4c4b",
+            "id": "61d2da66ca613c6d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -177,17 +187,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "360cc91eba1e5574",
+  "active": "a8150eb8a3cf4c4b",
   "lastOpenFiles": [
+    "Gospels In Chronological Order/3 Second Year of Ministry/35.5 Parables of the Kingdom of God.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/36 The Cost Of Following Jesus.md",
+    "Untitled 1.base",
     "Untitled.base",
-    "Gospels In Chronological Order/3 Second Year of Ministry/31 Parable of the yeast.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/30 Mustard Seed.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/29 The weeds.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/33 Parable of the Yeast.md",
     "ChronologyOfTheFourGospels.pdf",
+    "Gospels In Chronological Order/3 Second Year of Ministry/29 The weeds.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/28 The Sower.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/32 Mustard Seed.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/30 The Parable of the Lamp.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/35 The Parable Of The Fishing Net.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/34 The Pearl.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/31 Parable of the Growing Seed.md",
+    "Gospels In Chronological Order/3 Second Year of Ministry/34 Parable of the Hidden Treasure.md",
+    "Gospels In Chronological Order/Pasted image 20250204180351.png",
     "Gospels In Chronological Order/3 Second Year of Ministry/27 Six Woes.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/17 A Tree And Its Fruit.md",
-    "Gospels In Chronological Order/Pasted image 20250204180351.png",
     "Gospels In Chronological Order/3 Second Year of Ministry/18 Wise and Foolish Builders.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/19 Healing of Centurion's Slave.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/16 Entering The Kingdom of Heaven.md",
@@ -200,13 +218,6 @@
     "Gospels In Chronological Order/1 Birth Of Jesus and Early Days/3 Mary's Experience.md",
     "Gospels In Chronological Order/1 Birth Of Jesus and Early Days/1 Genealogy Of Jesus.md",
     "Gospels In Chronological Order/3 Second Year of Ministry/20 Jesus raises a widow's son.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/10 Praying in Secret.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/9 Giving to the needy.md",
-    "Gospels In Chronological Order/2 First Year and a Half of Ministry/5 Jesus' First Miracle.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/26 The sign of Jonah.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/24 Jesus and Beelzebub.md",
-    "Gospels In Chronological Order/3 Second Year of Ministry/25 Blasphemy Against The Holy Spirit.md",
-    "[[24.md",
     "Untitled.canvas",
     "Gospels In Chronological Order/2 First Year and a Half of Ministry/Untitled",
     "Gospels In Chronological Order",
