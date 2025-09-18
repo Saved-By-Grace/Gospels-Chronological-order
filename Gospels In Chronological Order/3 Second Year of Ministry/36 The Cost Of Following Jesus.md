@@ -24,7 +24,7 @@ Mt is an abridged version of Luke so we will stick with luke for this
 	- This man was the one who Jesus commanded to follow Him, unlike the others
 - Let dead bury their own dead, u go preach KOG?
 	- dead spiritually?
-	- but him going back to his father could preach about KOG
+	- but him going back to his father could preach about KOGv
 - Third like the first said he will follow Jesus, whats wrong with the man wanting to let his family know?
 	- possibly family might talk him out of it
 - No one who puts his hand on the plow and looks back is fit for the service of kingdom of God?
