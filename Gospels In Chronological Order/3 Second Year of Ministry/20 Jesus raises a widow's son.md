@@ -2,6 +2,7 @@
 #healing
 #widow
 #nain
+#Miracle 
 v12 She was a widow, with her only son. Although there were laws to help take care of widows, they had hard lives. They couldn't own property and they were usually taken care of by their kids. Since her son was dead she was going to be alone with no one to help
 
 v13 Jesus had compassion on her

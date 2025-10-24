@@ -1,6 +1,7 @@
 ### Matthew 12:22-30 Mark 3:20-30 Luke 11:14-22
 #pharisee
 #healing
+#Miracle 
 
 Mt22 - L20 
 Jesus Heals a blind deaf man

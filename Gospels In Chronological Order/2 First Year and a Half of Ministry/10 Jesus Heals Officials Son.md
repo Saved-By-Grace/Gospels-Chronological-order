@@ -4,7 +4,7 @@
 #healing 
 #galllean_ministry 
 #saved 
-
+#Miracle 
 Men came from Capernaum (20 miles, according to study Bible), and begged Jesus to heal his sick son
 
 He backed, he was a high ranking official, and had higher legal authority, yet he humbled himself, asking Jesus for help
