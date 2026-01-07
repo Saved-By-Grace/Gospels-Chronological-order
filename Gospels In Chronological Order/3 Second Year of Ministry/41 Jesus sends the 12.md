@@ -48,3 +48,16 @@ those who rejected you, it would be more bearable for sodom and gomorrah on the 
 
 
 
+#### Jesus Prepares The Disciples for Persection
+Mt 10:16-33
+
+He gives them instruction on what to expect 
+
+v16 Jesus says 
+"i am sending you out like sheeps among wolves"
+- he calls them to be inoocent sheep that rely on the father amongst the wolves (jew leaders)
+"be shrewed as snakes and innocent as doves"
+- shrewd- 'sharp power of judegment'
+- He calls them to be smart but innocent
+- 
+you will also be beaten in the synagogues 
